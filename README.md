@@ -8,7 +8,7 @@ This is what I did. Open the example video>>Capture>>BrightnessTracking
 
 Run the sketch. It works for me. I get some warnings related to the GStreamer-CRITICAL... Notice you will get those warnings on the other side.
 
-Now I did this: I exported the library and I didn't check the 64 bit part[STEP1.png]. This step will produce two folders. Check <u>Export_BrightnessTracking_folderTree.txt</u>
+Now I did this: I exported the library and I didn't check the 64 bit part[STEP1.png]. This step will produce two folders. Check **Export_BrightnessTracking_folderTree.docx**
 
 ![step1](https://forum.processing.org/two/uploads/imageupload/801/FIW82I4LBZ7T.png "step1")
 
@@ -52,7 +52,7 @@ Notice I got a warning shown in STEP11.png: ""Selection does not contain an Appl
 
 Now you will get a bunch of warnings and the sketch should run. If it does not work, then go to *Build >> Clean* in the Eclipse's menu and try running again.
 
-I attached an extra file showing the structure of the files and folders in the briBriBri project after i get everything running. The name of the file is **Export_BrightnessTracking_folderTree.txt**
+I attached an extra file showing the structure of the files and folders in the briBriBri project after i get everything running. The name of the file is **Export_BrightnessTracking_folderTree.docx**
 
 I hope it works. 
 
