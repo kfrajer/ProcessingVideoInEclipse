@@ -1,6 +1,8 @@
 # ProcessingVideoInEclipse
 Step by Step Guide: Running Processing's Video Library in Eclipse Mars2
 
+From: https://forum.processing.org/two/discussion/23015/how-to-use-video-capture-when-developing-in-eclipse/p1
+
 As a reference: https://processing.org/tutorials/eclipse/ but not to helpful here. 
 
 I have Win10 64bit, P3.3.4 64bit and Eclipse Mars 2.0
@@ -57,3 +59,10 @@ I attached an extra file showing the structure of the files and folders in the b
 I hope it works. 
 
 Kf
+
+
+EXTRA note: 
+
+Ok... so i tried these other instructions and it also worked taking less steps: http://www.oxfordmathcenter.com/drupal7/node/44
+
+Notice that when adding the jar files, I only added the jar file and I did not include the DLL files or the plugins folder which contains more DLL files. It didn't at first, so i had to do a Project>>Clean and then run it and voila.
