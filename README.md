@@ -14,7 +14,7 @@ Now I did this: I exported the library and I didn't check the 64 bit part[STEP1.
 
 ![step1](https://forum.processing.org/two/uploads/imageupload/801/FIW82I4LBZ7T.png "step1")
 
-This will create two folders,one for the 32 and another for the 64 bit version. In my machine, I tried running the 32 version and it didn't execute as I didn't get any video. On the other hand, the executable in the 64 but folder worked [!!!]. So I will be using these files in the rest of the steps. 
+This will create two folders,one for the 32 and another for the 64 bit version. In my machine, I tried running the 32 version and it didn't execute as I didn't get any video. On the other hand, the executable in the 64-bit folder worked [!!!]. So I will be using these files in the next steps. 
 
 Now open eclipse and create a new Java Project which I named *briBriBri* (For a better name) [STEP2]:
 
